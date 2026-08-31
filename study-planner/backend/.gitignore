@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+study_planner.db
+.pytest_cache/
